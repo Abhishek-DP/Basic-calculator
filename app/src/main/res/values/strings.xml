@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculatorBasic</string>
+    <string name="back"><![CDATA[<---]]></string>
+</resources>
