@@ -135,6 +135,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/Abhishek-DP/Basic-calculator.svg?style=for-the-badge
 [issues-url]: https://github.com/Abhishek-DP/Basic-calculator/issues
 [license-shield]: https://img.shields.io/github/license/Abhishek-DP/Basic-calculator.svg?style=for-the-badge
-[license-url]: https://github.com/Abhishek-DP/Basic-calculator/blob/master/LICENSE.txt
+[license-url]: https://github.com/Abhishek-DP/Basic-calculator/blob/add-license-1/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Abhishek-DP
