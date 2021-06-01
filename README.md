@@ -30,9 +30,9 @@ This is a android app implementing basic calculator.
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+<br />
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="open" align="center">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -52,8 +52,6 @@ This is a android app implementing basic calculator.
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -61,8 +59,10 @@ This is a android app implementing basic calculator.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/37995825/120203148-5e52cb80-c262-11eb-9947-4a7f17215654.mp4)
+<!--[![Product Name Screen Shot][product-screenshot]]-->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37995825/120260800-8af1fc00-c2d1-11eb-8cae-f23b40f448b3.gif"/>
+</p>
 
 
 ### Built With
@@ -137,4 +137,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/Abhishek-DP/Basic-calculator.svg?style=for-the-badge
 [license-url]: https://github.com/Abhishek-DP/Basic-calculator/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Abhishek-DP
+[linkedin-url]: https://linkedin.com/in/Abhishek--DP
